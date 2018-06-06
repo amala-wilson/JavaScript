@@ -10,6 +10,7 @@ x.push('coding');
 x.push('dojo');
 x.push('rocks');
 x.push('icecream');
+x.push('coffee');
 
 /* Use .pop() to remove the final element of your array. */
 x.pop();
