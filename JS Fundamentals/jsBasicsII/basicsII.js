@@ -44,3 +44,5 @@ let test5 = magic_multiply("Brendo", 4);
 console.log(test5);
 let test6 = magic_multiply(-5, 4);
 console.log(test6);
+let test7 = magic_multiply(-10, -4);
+console.log(test7);
