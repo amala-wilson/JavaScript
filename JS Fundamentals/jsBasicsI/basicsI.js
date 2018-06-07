@@ -11,6 +11,7 @@ x.push('dojo');
 x.push('rocks');
 x.push('icecream');
 x.push('coffee');
+x.push('tea');
 
 /* Use .pop() to remove the final element of your array. */
 x.pop();
